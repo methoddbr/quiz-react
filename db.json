@@ -1,0 +1,81 @@
+{
+  "bg": "https://i.pinimg.com/originals/d2/d9/6a/d2d96ac9df75def02868f6cb8e4dc483.jpg",
+  "title": "Quiz CSS da Alura",
+  "description": "Teste seus conhecimentos sobre O Irmão do Jorel",
+  "questions": [
+    {
+      "image": "https://i.pinimg.com/originals/5f/97/ba/5f97baba8236d06c1dab3c5b1e265be6.gif",
+      "title": "Quem é o criador de Irmão do Jorel?",
+      "description": "Essa é pra aquecer",
+      "answer": 2,
+      "alternatives": [
+        "Clint Westwood",
+        "Leonardo Prestes",
+        "Juliano Enrico",
+        "Pablo Picasso"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/5a789557571e8d89f5fb2f3a1d66e21b/tenor.gif",
+      "title": "Quantos anos tem o irmão do Jorel?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "8",
+         "6",
+         "7",
+         "10"
+      ]
+    },
+    {
+      "image": "https://1.bp.blogspot.com/-mU4ngFpm338/XUxgpbHzLOI/AAAAAAAANtI/9id0ac3--1YdCsS2ld44Dkb2LlXof5QJACLcBGAs/s400/tenor.gif",
+      "title": "Em qual artista é inspirada a personagem Ana Catarina?",
+      "description": "Essa é pra aquecer",
+      "answer": 1,
+      "alternatives": [
+        "Morgana Witt",
+        "Angelica",
+        "Xuxa",
+        "Juliette"
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/7f/42/2d/7f422df302ae2438769eeb38caef2df8.gif",
+      "title": "Qual a fruta favorita da vovó Juju?",
+      "description": "Essa é pra aquecer",
+      "answer": 3,
+      "alternatives": [
+        "Banana",
+        "Maçã",
+        "Pera",
+        "Abacate"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/7dbc0ff93cc930be10f4100f9412508d/tenor.gif",
+      "title": "O que significa Jorel?",
+      "description": "Essa é pra aquecer",
+      "answer": 2,
+      "alternatives": [
+        "Doce",
+        "Anjo",
+        "Pai do Superman",
+        "Marca de Sabão em pó"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#4c8c4a",
+      "secondary": "#003300",
+      "mainBg": "#1b5e20",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
